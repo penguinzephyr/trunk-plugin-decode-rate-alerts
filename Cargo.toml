@@ -6,7 +6,7 @@ version = "0.1.0"
 edition = "2024"
 description = "Decode-rate notifications for Trunk Recorder Pro"
 license = "MIT"
-repository = "https://github.com/penguinzephyr/trunk-plugin-pushover-alert"
+repository = "https://github.com/penguinzephyr/trunk-plugin-decode-rate-alerts"
 authors = ["Penguinzephyr"]
 publish = false
 
