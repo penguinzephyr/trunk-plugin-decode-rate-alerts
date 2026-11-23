@@ -1,7 +1,7 @@
 [package]
 # Your plugin's id: lowercase letters, digits and dashes. It names the
 # executable, the release files and the plugin's entry in the registry.
-name = "pushover-notifications"
+name = "decode-rate-notifications"
 version = "0.1.0"
 edition = "2024"
 description = "Decode-rate notifications for Trunk Recorder Pro"
